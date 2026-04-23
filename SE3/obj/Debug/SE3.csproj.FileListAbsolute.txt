@@ -1,0 +1,2 @@
+C:\JBG\Ejer1\SE3\obj\Debug\SE3.csproj.AssemblyReference.cache
+C:\JBG\Ejer1\SE3\obj\Debug\SE3.csproj.CoreCompileInputs.cache

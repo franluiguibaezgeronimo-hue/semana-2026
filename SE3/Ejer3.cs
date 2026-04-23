@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SE3
+{
+    internal class Ejer3
+    {
+        static void Main(string[] args)
+        { 
+           Console.Write("ingrese numero 1 : ");
+                int num1 = int.Parse(Console.ReadLine());
+            Console.Write("ingrese numero 2 : ");
+                int num2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("\nSuma: "+ (num1 + num2));
+            Console.WriteLine("Resta: "+ (num1 - num2));
+            Console.WriteLine("Multiplicacion: "+ (num1 * num2));
+            Console.WriteLine("Division: "+ (num1 / num2));
+            Console.ReadLine();
+
+        }
+    }
+}

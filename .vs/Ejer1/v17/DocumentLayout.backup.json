@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\fran\\semana-2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A54C50-8936-4E4D-8210-18DD434E6178}|se4.py\\se4.py.pyproj|C:\\fran\\semana-2026\\se4.py\\se4.py.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D3A54C50-8936-4E4D-8210-18DD434E6178}|se4.py\\se4.py.pyproj|solutionrelative:se4.py\\se4.py.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B0E781-BF52-4B8E-B4C4-B8818EE7FE45}|s4_c\\s4_c.csproj|c:\\fran\\semana-2026\\s4_c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B0E781-BF52-4B8E-B4C4-B8818EE7FE45}|s4_c\\s4_c.csproj|solutionrelative:s4_c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC72B4C-E191-4AAB-9D02-ABBC87D02DE4}|Se3-p\\Se3-p.pyproj|C:\\fran\\semana-2026\\Se3-p\\Ejer5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CC72B4C-E191-4AAB-9D02-ABBC87D02DE4}|Se3-p\\Se3-p.pyproj|solutionrelative:Se3-p\\Ejer5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC72B4C-E191-4AAB-9D02-ABBC87D02DE4}|Se3-p\\Se3-p.pyproj|C:\\fran\\semana-2026\\Se3-p\\Ejer4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CC72B4C-E191-4AAB-9D02-ABBC87D02DE4}|Se3-p\\Se3-p.pyproj|solutionrelative:Se3-p\\Ejer4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC72B4C-E191-4AAB-9D02-ABBC87D02DE4}|Se3-p\\Se3-p.pyproj|C:\\fran\\semana-2026\\Se3-p\\Ejer3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CC72B4C-E191-4AAB-9D02-ABBC87D02DE4}|Se3-p\\Se3-p.pyproj|solutionrelative:Se3-p\\Ejer3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|c:\\fran\\semana-2026\\se3\\ejer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|solutionrelative:se3\\ejer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|C:\\fran\\semana-2026\\se3\\ejer5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|solutionrelative:se3\\ejer5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|C:\\fran\\semana-2026\\se3\\ejer3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|solutionrelative:se3\\ejer3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|C:\\fran\\semana-2026\\se3\\ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA0AE5F-9865-47E1-A48D-4A22613C3463}|SE3\\SE3.csproj|solutionrelative:se3\\ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "se4.py.py",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\se4.py\\se4.py.py",
+              "RelativeDocumentMoniker": "se4.py\\se4.py.py",
+              "ToolTip": "C:\\fran\\semana-2026\\se4.py\\se4.py.py",
+              "RelativeToolTip": "se4.py\\se4.py.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-23T20:45:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\s4_c\\Program.cs",
+              "RelativeDocumentMoniker": "s4_c\\Program.cs",
+              "ToolTip": "C:\\fran\\semana-2026\\s4_c\\Program.cs",
+              "RelativeToolTip": "s4_c\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:44:33.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejer5.py",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\Se3-p\\Ejer5.py",
+              "RelativeDocumentMoniker": "Se3-p\\Ejer5.py",
+              "ToolTip": "C:\\fran\\semana-2026\\Se3-p\\Ejer5.py",
+              "RelativeToolTip": "Se3-p\\Ejer5.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-23T20:29:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejer4.py",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\Se3-p\\Ejer4.py",
+              "RelativeDocumentMoniker": "Se3-p\\Ejer4.py",
+              "ToolTip": "C:\\fran\\semana-2026\\Se3-p\\Ejer4.py",
+              "RelativeToolTip": "Se3-p\\Ejer4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-23T20:17:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejer3.py",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\Se3-p\\Ejer3.py",
+              "RelativeDocumentMoniker": "Se3-p\\Ejer3.py",
+              "ToolTip": "C:\\fran\\semana-2026\\Se3-p\\Ejer3.py",
+              "RelativeToolTip": "Se3-p\\Ejer3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-23T20:17:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejer5.cs",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\SE3\\Ejer5.cs",
+              "RelativeDocumentMoniker": "SE3\\Ejer5.cs",
+              "ToolTip": "C:\\fran\\semana-2026\\SE3\\Ejer5.cs",
+              "RelativeToolTip": "SE3\\Ejer5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:49:56.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejer3.cs",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\SE3\\Ejer3.cs",
+              "RelativeDocumentMoniker": "SE3\\Ejer3.cs",
+              "ToolTip": "C:\\fran\\semana-2026\\SE3\\Ejer3.cs",
+              "RelativeToolTip": "SE3\\Ejer3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:43:25.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejer4.cs",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\SE3\\Ejer4.cs",
+              "RelativeDocumentMoniker": "SE3\\Ejer4.cs",
+              "ToolTip": "C:\\fran\\semana-2026\\SE3\\Ejer4.cs",
+              "RelativeToolTip": "SE3\\Ejer4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:43:20.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ejer2.cs",
+              "DocumentMoniker": "C:\\fran\\semana-2026\\SE3\\Ejer2.cs",
+              "RelativeDocumentMoniker": "SE3\\Ejer2.cs",
+              "ToolTip": "C:\\fran\\semana-2026\\SE3\\Ejer2.cs",
+              "RelativeToolTip": "SE3\\Ejer2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:42:03.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
